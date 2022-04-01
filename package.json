@@ -1,0 +1,25 @@
+{
+  "name": "trending-news",
+  "version": "1.0.0",
+  "description": "GraphQL/REST API for fetching the latest news given a specific topic (SDK coming soon!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianmihai01/trending-news.git"
+  },
+  "author": "Sebastian Mihai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastianmihai01/trending-news/issues"
+  },
+  "homepage": "https://github.com/sebastianmihai01/trending-news#readme",
+  "dependencies": {
+    "@types/node": "^17.0.23",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "typescript": "^4.6.3"
+  }
+}
